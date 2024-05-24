@@ -5,6 +5,7 @@ import './css/main.css';
 import "bootstrap/dist/js/bootstrap";
 import "bootstrap/dist/css/bootstrap.css";
 
+
 // window.addEventListener("load", () => {
 //   setTimeout(() => {
 //     if (typeof yotpoWidgetsContainer !== "undefined") {
@@ -15,6 +16,7 @@ import "bootstrap/dist/css/bootstrap.css";
 //     }
 //   }, 1000);
 // });
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
